@@ -38,6 +38,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 gem 'rack-cors'
+gem 'rack-attack'
 gem 'jbuilder', '~> 2.5'
 gem 'active_model_serializers', '~> 0.10.0'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
